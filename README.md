@@ -1,4 +1,7 @@
-# 💫 About Me:
+
+# 💫I'm Abhinav Gomra
+
+
 🎓 Pursuing an Integrated M.Tech in Data Science<br>💻 Interested in Data Science, AI & Full Stack Development<br>🚀 Currently building and experimenting with real-world projects<br>🌱 Continuously learning new technologies and development tools<br>🤝 Open to collaborating on interesting tech projects<br>🧠 Passionate about problem-solving and learning by building<br>⚡ Always curious about what I can build next
 
 
